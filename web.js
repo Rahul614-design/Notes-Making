@@ -1,5 +1,5 @@
  
-console.log("Welcome to notes app. This is app.js");
+console.log("Welcome to notes app. This is web.js");
 showNotes();
 
 // If user adds a note, add it to the localStorage
@@ -80,11 +80,3 @@ search.addEventListener("input", function(){
         // console.log(cardTxt);
     })
 })
-
-/*
-Further Features:
-1. Add Title
-2. Mark a note as Important
-3. Separate notes by user
-4. Sync and host to web server 
-*/ 
